@@ -1,0 +1,246 @@
+<!doctype html>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  <head>
+<style type="text/css">
+.inline {
+  background-color: #f7f7f7;
+  border:solid 1px #B0B0B0;
+}
+.error {
+	font-weight: bold;
+	color: #FF0000;
+}
+.warning {
+	font-weight: bold;
+}
+.message {
+	font-style: italic;
+}
+.source, .output, .warning, .error, .message {
+	padding: 0 1em;
+  border:solid 1px #F7F7F7;
+}
+.source {
+  background-color: #f5f5f5;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.hl.num {
+  color: #AF0F91;
+}
+.hl.sng {
+  color: #317ECC;
+}
+.hl.com {
+  color: #AD95AF;
+  font-style: italic;
+}
+.hl.opt {
+  color: #000000;
+}
+.hl.def {
+  color: #585858;
+}
+.hl.kwa {
+  color: #295F94;
+  font-weight: bold;
+}
+.hl.kwb {
+  color: #B05A65;
+}
+.hl.kwc {
+  color: #55aa55;
+}
+.hl.kwd {
+  color: #BC5A65;
+  font-weight: bold;
+}
+</style>
+    <title>Youmie Laberge Ramirez</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=no"
+    />
+    <link rel="stylesheet" href="assets/css/main.css" />
+  </head>
+  <body class="is-preload">
+    <!-- Header -->
+    <section id="  ">
+      <header>
+        <span class="image avatar"
+          ><img src="images/portrait.jpg" alt=""
+        /></span>
+        <h1 id="logo"><a href="#">Youmie Laberge Ramirez</a></h1>
+        <p>
+          Je me prénomme Youmie Laberge Ramirez, étudiante à la maîtrise en science politique avec mémoire à l'Université Laval. Présentement sous la direction du professeur Hang Zhou, j'étudie l'influence du Soft Power chinois en Amérique latine, tout en collaborant dans la chaire de recherche de celui-ci.  <br />
+          De plus, je suis passionnées d'arts et de sport, particulièrement de cyclisme. Par ailleurs, je suis une grande adepte de pleine air et de course en trail.
+        </p>
+      </header>
+      <nav id="nav">
+        <ul>
+          <li><a href="#one" class="active">À propos</a></li>
+          <li><a href="#two">Mes réalisations</a></li>
+          <li><a href="#three">Mon CV</a></li>
+          <li><a href="#four">Contact</a></li>
+        </ul>
+      </nav>
+      <footer>
+        <ul class="icons">
+          <li>
+            <!-- Vous pouvez mettre en hyperlien vos reseaux sociaux en modifiant la valeur de href-->
+         
+          </li>
+          <li>
+            <a href="https://www.facebook.com/youleydi.laberge.ramirez/" class="icon brands fa-facebook"
+              ><span class="label">Facebook</span></a
+            >
+          </li>
+       <li>
+  <a href="https://www.linkedin.com/in/youmie-laberge-ramirez-7530b5445" target="_blank" class="icon brands fa-linkedin">
+    <span class="label">LinkedIn</span>
+  </a>
+</li>
+          <li>
+ 
+  <a href="https://github.com/YoumieLR" target="_blank" class="icon brands fa-github">
+    <span class="label">Github</span>
+  </a>
+</li>
+<li>
+            <a href="mailto:YOLAR10@ulaval.ca" class="icon solid fa-envelope"
+              ><span class="label">Email</span></a
+            >
+          </li>
+        </ul>
+      </footer>
+    </section>
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Main -->
+      <div id="main">
+        <!-- One -->
+        <section id="one">
+          <div class="image main" data-position="center">
+            <img src="images/bg.jpg" alt="" />
+          </div>
+          <div class="container">
+            <header class="major">
+              <h2>Youmie</h2>
+              <p>Entre recherche et racines </p>
+            </header>
+            <p>
+              J’ai toujours été passionnée par la politique internationale! Au fil de mon baccalauréat, ma curiosité pour la Chine n’a cessé de grandir, jusqu’à devenir un véritable fil conducteur dans mon parcours. Ce qui n’était au départ qu’un intérêt est devenu le point de départ de mon mémoire.
+             Mon projet de recherche porte sur le Soft Power chinois en Amérique latine. Ce concept désigne la capacité d’un pays à exercer de l’influence non pas par la force ou la contrainte, mais par l’attraction, notamment grâce à sa culture, à ses échanges économiques et à sa diplomatie. Ce travail me permet de relier cette passion à mes origines guatémaltèques, en explorant une région qui fait partie de mon identité. À travers lui, je souhaite mieux comprendre comment ces dynamiques transforment le continent.
+            </p>
+          </div>
+        </section>
+
+        <!-- Two -->
+        <section id="two">
+          <div class="container">
+            <h3>Mes réalisations</h3>
+            <img src="images/banner.jpg" alt="Ma photo" width="300">
+            <p>
+             Quelques moments dont je suis particulièrement fière. Des grands accomplissements aux petites victoires, tout compte !
+            </p>
+            <ul class="feature-icons">
+              <li class="icon solid fa-code">
+               Acceptée à la maîtrise en science politique avec mémoire (oui oui, c’est difficile)
+              </li>
+              <li class="icon solid fa-cubes">
+                Rencontré Arnaud De Lie, la star du cyclisme belge
+              </li>
+              <li class="icon solid fa-book">
+                Rencontré le premier ministre des Pays-Bas, Rob Jetten. 
+              </li>
+              <li class="icon solid fa-coffee">Interviewé le politicien néerlandais Abdullah Uysal</li>
+              <li class="icon solid fa-bolt">Capitaine des Élans de l’équipe de natation du Cégep Garneau</li>
+              <li class="icon solid fa-users"> Assisté aux Championnats du monde UCI 2026 à Montréal</li>
+            </ul>
+          </div>
+        </section>
+<div style="text-align: center;">
+ 
+        <!-- Three -->
+        <section id="three">
+          <div class="container">
+            <h3>Mon CV</h3>
+            <p>
+           Retrouve ici mon parcours académique et professionnel. Tu peux aussi télécharger mon CV complet en un clic. 
+            </p>
+            <div class="features">
+              <article>
+                <a href="#" class="image"
+                  ><img src="images/pic01.jpg" alt=""
+                /></a>
+                <div class="inner">
+                  <h4>Consulter mon CV complet</h4>
+                  <p>
+                 <a href="assets/cv.pdf" download>Télécharger mon CV</a>
+                  </p>
+                </div>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <!-- Four -->
+        <section id="four">
+          <div class="container">
+            <h3>Me joindre</h3>
+            <p>
+            Une question sur le Soft Power, le vélo ou le trail ? Écris-moi, je réponds avec plaisir !
+            </p>
+            <div class="row gtr-uniform">
+              <div class="col-12">
+                <!-- Vous pouvez mettre votre email ici au lieu de your-email@example.com -->
+                <a
+                  href="mailto:YOLAR10@ulaval.ca?subject=Sujet&body=Votre message ici."
+                  class="button primary"
+                >
+                  Envoyer un email
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- Five -->
+        <!-- -->
+      </div>
+
+      <!-- Footer -->
+      <section id="footer">
+        <div class="container">
+          <ul class="copyright">
+            <li>&copy; Untitled. All rights reserved.</li>
+            <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html
+
